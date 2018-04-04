@@ -1,0 +1,24 @@
+html {
+    font-family: sans-serif;
+    overflow-y: scroll;
+}
+
+p {
+    font-family: Arial;
+    margin: 0;
+}
+
+.background {
+    background-color: #FFF;
+}
+
+.bac {
+
+    color: #000;
+    font-family: 'Josefin Sans', sans-serif, Courier;
+}
+
+.bac:hover {
+
+    color: yellow;
+}
